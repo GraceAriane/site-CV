@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [my CV]()
+- Live Site URL: [my CV](https://site-cv-blond.vercel.app/)
 
 ## My process
 
